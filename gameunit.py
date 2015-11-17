@@ -1,7 +1,5 @@
 # coding: utf-8
 # license: GPLv3
-
-
 class Attacker:
     _health = None
     _attack = None
